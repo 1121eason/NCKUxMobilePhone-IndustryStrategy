@@ -1,0 +1,242 @@
+{
+  "source": {
+    "id": "S1",
+    "doi": "10.1007/978-4-431-55145-4_14",
+    "authors": [
+      "Jing-Ming Shiu",
+      "Masanori Yasumoto"
+    ],
+    "publication_year": 2018,
+    "sample_printed_page": 383,
+    "quadrants_printed_pages": [
+      387,
+      388
+    ],
+    "regression_printed_page": 388,
+    "regression_table": 3
+  },
+  "sample": {
+    "projects": 50,
+    "manufacturers": 8,
+    "pre_survey_interviewees": 27,
+    "survey_responses_before_project_deduplication": 93,
+    "survey_date": "2015-05",
+    "projects_by_year": {
+      "2012": 15,
+      "2013": 16,
+      "2014": 19
+    }
+  },
+  "quadrants": [
+    {
+      "label": "I",
+      "position_in_source": "upper-left",
+      "brand_CDR": "higher",
+      "manufacturer_IDR": "lower",
+      "n": 16,
+      "mean_PDP": 0.31,
+      "sd_PDP": 0.82
+    },
+    {
+      "label": "II",
+      "position_in_source": "upper-right",
+      "brand_CDR": "higher",
+      "manufacturer_IDR": "higher",
+      "n": 11,
+      "mean_PDP": 0.38,
+      "sd_PDP": 0.59
+    },
+    {
+      "label": "III",
+      "position_in_source": "lower-left",
+      "brand_CDR": "lower",
+      "manufacturer_IDR": "lower",
+      "n": 9,
+      "mean_PDP": -0.62,
+      "sd_PDP": 0.53
+    },
+    {
+      "label": "IV",
+      "position_in_source": "lower-right",
+      "brand_CDR": "lower",
+      "manufacturer_IDR": "higher",
+      "n": 14,
+      "mean_PDP": -0.26,
+      "sd_PDP": 0.57
+    }
+  ],
+  "anova_reported": {
+    "between_df": 3,
+    "within_df": 46,
+    "between_mean_square": 2.549,
+    "within_mean_square": 0.433,
+    "f": 5.893,
+    "levene_p_as_interpreted_from_narrative": 0.416,
+    "precision_note": "Published rounded summaries; do not use to reconstruct the original observations."
+  },
+  "models": [
+    {
+      "id": "PDP1",
+      "intercept": -0.043,
+      "terms": {
+        "IDR": {
+          "coefficient": 0.039,
+          "standard_error": 0.111,
+          "stars": ""
+        },
+        "TN": {
+          "coefficient": 0.428,
+          "standard_error": 0.36,
+          "stars": ""
+        }
+      },
+      "adjusted_r2": -0.006,
+      "r2": 0.036,
+      "f": 0.865,
+      "p_display": "0.428"
+    },
+    {
+      "id": "PDP2",
+      "intercept": -0.015,
+      "terms": {
+        "IDR": {
+          "coefficient": 0.123,
+          "standard_error": 0.097,
+          "stars": ""
+        },
+        "CDR": {
+          "coefficient": 0.342,
+          "standard_error": 0.08,
+          "stars": "**"
+        },
+        "TN": {
+          "coefficient": 0.149,
+          "standard_error": 0.315,
+          "stars": ""
+        }
+      },
+      "adjusted_r2": 0.262,
+      "r2": 0.308,
+      "f": 6.81,
+      "p_display": "0.001"
+    },
+    {
+      "id": "PDP3",
+      "intercept": -0.07,
+      "terms": {
+        "IDR": {
+          "coefficient": 0.221,
+          "standard_error": 0.1,
+          "stars": "**"
+        },
+        "CDR": {
+          "coefficient": 0.387,
+          "standard_error": 0.078,
+          "stars": "***"
+        },
+        "IDR_x_CDR": {
+          "coefficient": -0.191,
+          "standard_error": 0.076,
+          "stars": "**"
+        },
+        "TN": {
+          "coefficient": 0.327,
+          "standard_error": 0.307,
+          "stars": ""
+        }
+      },
+      "adjusted_r2": 0.339,
+      "r2": 0.393,
+      "f": 7.27,
+      "p_display": "0.000"
+    },
+    {
+      "id": "PDP4",
+      "intercept": -0.061,
+      "terms": {
+        "IDR": {
+          "coefficient": 0.222,
+          "standard_error": 0.097,
+          "stars": "**"
+        },
+        "CDR": {
+          "coefficient": 0.298,
+          "standard_error": 0.091,
+          "stars": "***"
+        },
+        "IDR_x_CDR": {
+          "coefficient": -0.17,
+          "standard_error": 0.075,
+          "stars": "**"
+        },
+        "EPS": {
+          "coefficient": 0.405,
+          "standard_error": 0.221,
+          "stars": "*"
+        },
+        "TN": {
+          "coefficient": 0.282,
+          "standard_error": 0.3,
+          "stars": ""
+        }
+      },
+      "adjusted_r2": 0.371,
+      "r2": 0.435,
+      "f": 6.789,
+      "p_display": "0.000"
+    },
+    {
+      "id": "PDP5",
+      "intercept": -0.052,
+      "terms": {
+        "IDR": {
+          "coefficient": 0.187,
+          "standard_error": 0.092,
+          "stars": "**"
+        },
+        "CDR": {
+          "coefficient": 0.21,
+          "standard_error": 0.091,
+          "stars": "**"
+        },
+        "IDR_x_CDR": {
+          "coefficient": -0.091,
+          "standard_error": 0.076,
+          "stars": ""
+        },
+        "EPS": {
+          "coefficient": 0.36,
+          "standard_error": 0.208,
+          "stars": "*"
+        },
+        "CIC": {
+          "coefficient": 0.327,
+          "standard_error": 0.121,
+          "stars": "***"
+        },
+        "TN": {
+          "coefficient": 0.342,
+          "standard_error": 0.281,
+          "stars": ""
+        }
+      },
+      "adjusted_r2": 0.451,
+      "r2": 0.518,
+      "f": 7.707,
+      "p_display": "0.000"
+    }
+  ],
+  "significance_legend": {
+    "*": "p < .10",
+    "**": "p < .05",
+    "***": "p < .01",
+    "": "no significance marker in Table 3"
+  },
+  "notes": [
+    "Aggregate published values only; no raw project observations.",
+    "PDP values are centered assessment scores, not percentages or returns.",
+    "Use Table 3 stars: PDP2 CDR and PDP5 CDR are ** despite *** in adjacent narrative.",
+    "Printed model p-value 0.000 reflects reporting precision, not exact zero.",
+    "No original regression or pairwise significance tests were rerun."
+  ]
+}

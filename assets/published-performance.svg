@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Published performance by decision-rights group</title>
+<desc id="desc">Group I n=16 mean=0.31; II n=11 mean=0.38; III n=9 mean=-0.62; IV n=14 mean=-0.26. Descriptive comparisons only.</desc>
+<rect width="1200" height="800" rx="18" fill="#f5f8fa"/>
+<g font-family="system-ui, -apple-system, 'Noto Sans', sans-serif">
+<text x="48" y="45" font-size="16" fill="#337d80" font-weight="700" text-anchor="start">PUBLISHED EVIDENCE | 50 PROJECTS</text>
+<text x="48" y="91" font-size="31" fill="#172f42" font-weight="700" text-anchor="start">Decision rights and product development performance</text>
+<text x="48" y="126" font-size="20" fill="#526b7a" font-weight="400" text-anchor="start">Group means of centered PDP scores; these values are not percentages.</text>
+<text x="48" y="168" font-size="17" fill="#526b7a" font-weight="400" text-anchor="start">Source group / relative decision rights</text>
+<line x1="540.0" x2="540.0" y1="198" y2="528" stroke="#dbe4e9"/>
+<text x="540.0" y="558" font-size="16" fill="#526b7a" font-weight="400" text-anchor="middle">-0.8</text>
+<line x1="610.0" x2="610.0" y1="198" y2="528" stroke="#dbe4e9"/>
+<text x="610.0" y="558" font-size="16" fill="#526b7a" font-weight="400" text-anchor="middle">-0.6</text>
+<line x1="680.0" x2="680.0" y1="198" y2="528" stroke="#dbe4e9"/>
+<text x="680.0" y="558" font-size="16" fill="#526b7a" font-weight="400" text-anchor="middle">-0.4</text>
+<line x1="750.0" x2="750.0" y1="198" y2="528" stroke="#dbe4e9"/>
+<text x="750.0" y="558" font-size="16" fill="#526b7a" font-weight="400" text-anchor="middle">-0.2</text>
+<line x1="820" x2="820" y1="198" y2="528" stroke="#6b8390"/>
+<text x="820" y="558" font-size="16" fill="#526b7a" font-weight="400" text-anchor="middle">0.0</text>
+<line x1="890.0" x2="890.0" y1="198" y2="528" stroke="#dbe4e9"/>
+<text x="890.0" y="558" font-size="16" fill="#526b7a" font-weight="400" text-anchor="middle">0.2</text>
+<line x1="960.0" x2="960.0" y1="198" y2="528" stroke="#dbe4e9"/>
+<text x="960.0" y="558" font-size="16" fill="#526b7a" font-weight="400" text-anchor="middle">0.4</text>
+<line x1="1030.0" x2="1030.0" y1="198" y2="528" stroke="#dbe4e9"/>
+<text x="1030.0" y="558" font-size="16" fill="#526b7a" font-weight="400" text-anchor="middle">0.6</text>
+<text x="48" y="221" font-size="18" fill="#172f42" font-weight="600" text-anchor="start">I | Brand CDR higher / Mfr IDR lower</text>
+<text x="48" y="248" font-size="17" fill="#526b7a" font-weight="400" text-anchor="start">n = 16 | SD = 0.82</text>
+<rect x="820.00" y="203" width="108.50" height="42" rx="5" fill="#276f73"/>
+<text x="940.5" y="231" font-size="21" fill="#276f73" font-weight="700" text-anchor="start">+0.31</text>
+<text x="48" y="306" font-size="18" fill="#172f42" font-weight="600" text-anchor="start">II | Brand CDR higher / Mfr IDR higher</text>
+<text x="48" y="333" font-size="17" fill="#526b7a" font-weight="400" text-anchor="start">n = 11 | SD = 0.59</text>
+<rect x="820.00" y="288" width="133.00" height="42" rx="5" fill="#276f73"/>
+<text x="965.0" y="316" font-size="21" fill="#276f73" font-weight="700" text-anchor="start">+0.38</text>
+<text x="48" y="391" font-size="18" fill="#172f42" font-weight="600" text-anchor="start">III | Brand CDR lower / Mfr IDR lower</text>
+<text x="48" y="418" font-size="17" fill="#526b7a" font-weight="400" text-anchor="start">n = 9 | SD = 0.53</text>
+<rect x="603.00" y="373" width="217.00" height="42" rx="5" fill="#ac6962"/>
+<text x="591.0" y="401" font-size="21" fill="#ac6962" font-weight="700" text-anchor="end">-0.62</text>
+<text x="48" y="476" font-size="18" fill="#172f42" font-weight="600" text-anchor="start">IV | Brand CDR lower / Mfr IDR higher</text>
+<text x="48" y="503" font-size="17" fill="#526b7a" font-weight="400" text-anchor="start">n = 14 | SD = 0.57</text>
+<rect x="729.00" y="458" width="91.00" height="42" rx="5" fill="#ac6962"/>
+<text x="717.0" y="486" font-size="21" fill="#ac6962" font-weight="700" text-anchor="end">-0.26</text>
+<rect x="48" y="595" width="1104" height="105" rx="12" fill="#e8eff3"/>
+<text x="72" y="630" font-size="19" fill="#172f42" font-weight="700" text-anchor="start">Interpretation</text>
+<text x="72" y="662" font-size="19" fill="#172f42" font-weight="400" text-anchor="start">Group II has the highest mean. Omnibus ANOVA does not establish II &gt; I in a pairwise test.</text>
+<text x="48" y="740" font-size="16" fill="#526b7a" font-weight="400" text-anchor="start">Source: Shiu &amp; Yasumoto (2018), Fig. 3 and footnote 6, pp. 387-388. Projects: 2012-2014.</text>
+<text x="48" y="768" font-size="16" fill="#526b7a" font-weight="400" text-anchor="start">Redrawn from published aggregates. No individual project observations or confidence intervals are shown.</text>
+</g>
+</svg>
